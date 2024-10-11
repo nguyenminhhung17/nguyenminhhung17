@@ -1,12 +1,49 @@
-<h1 align="center">Hi 👋, I'm leaf</h1>
-<h3 align="center">𝐻𝑒𝑦 𝑡ℎ𝑒𝑟𝑒! 𝐼'𝑚 𝑎 𝑓𝑟𝑖𝑒𝑛𝑑𝑙𝑦 𝑎𝑛𝑑 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝐽𝑎𝑣𝑎 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑏𝑎𝑠𝑒𝑑 𝑖𝑛 𝑉𝑖𝑒𝑡𝑛𝑎𝑚, 𝑎𝑛𝑑 𝑎𝑡 18 𝑦𝑒𝑎𝑟𝑠 𝑜𝑙𝑑, 𝐼'𝑚 𝑒𝑥𝑐𝑖𝑡𝑒𝑑 𝑡𝑜 𝑏𝑒 𝑑𝑖𝑣𝑖𝑛𝑔 𝑖𝑛𝑡𝑜 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑 𝑜𝑓 𝑐𝑜𝑑𝑖𝑛𝑔 𝑎𝑛𝑑 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑦. 𝐼 𝑙𝑜𝑣𝑒 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑠 𝑡ℎ𝑟𝑜𝑢𝑔ℎ 𝑐𝑙𝑒𝑎𝑛, 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 𝑐𝑜𝑑𝑒, 𝑎𝑛𝑑 𝐼’𝑚 𝑎𝑙𝑤𝑎𝑦𝑠 𝑒𝑎𝑔𝑒𝑟 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛 𝑛𝑒𝑤 𝑡ℎ𝑖𝑛𝑔𝑠—𝑤ℎ𝑒𝑡ℎ𝑒𝑟 𝑖𝑡'𝑠 𝑝𝑖𝑐𝑘𝑖𝑛𝑔 𝑢𝑝 𝑎 𝑛𝑒𝑤 𝑓𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘 𝑜𝑟 𝑒𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑙𝑎𝑡𝑒𝑠𝑡 𝑡𝑟𝑒𝑛𝑑𝑠 𝑖𝑛 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡. 𝐼 𝑚𝑎𝑖𝑛𝑙𝑦 𝑤𝑜𝑟𝑘 𝑤𝑖𝑡ℎ 𝐽𝑎𝑣𝑎, 𝑏𝑢𝑡 𝐼’𝑣𝑒 𝑎𝑙𝑠𝑜 ℎ𝑎𝑑 𝑠𝑜𝑚𝑒 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒 𝑤𝑖𝑡ℎ 𝑆𝑝𝑟𝑖𝑛𝑔 𝐵𝑜𝑜𝑡, 𝐻𝑖𝑏𝑒𝑟𝑛𝑎𝑡𝑒, 𝑎𝑛𝑑 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡. 𝑊ℎ𝑒𝑛 𝐼’𝑚 𝑛𝑜𝑡 𝑐𝑜𝑑𝑖𝑛𝑔, 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑢𝑠𝑢𝑎𝑙𝑙𝑦 𝑓𝑖𝑛𝑑 𝑚𝑒 𝑟𝑒𝑎𝑑𝑖𝑛𝑔 𝑡𝑒𝑐ℎ 𝑏𝑙𝑜𝑔𝑠, 𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑛𝑔 𝑡𝑜 𝑜𝑝𝑒𝑛-𝑠𝑜𝑢𝑟𝑐𝑒 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠, 𝑜𝑟 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑠𝑚𝑎𝑙𝑙 𝑠𝑖𝑑𝑒 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠. 𝐼 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑖𝑛 𝑤𝑟𝑖𝑡𝑖𝑛𝑔 𝑐𝑜𝑑𝑒 𝑡ℎ𝑎𝑡 𝑛𝑜𝑡 𝑜𝑛𝑙𝑦 𝑤𝑜𝑟𝑘𝑠 𝑏𝑢𝑡 𝑎𝑙𝑠𝑜 ℎ𝑒𝑙𝑝𝑠 𝑚𝑎𝑘𝑒 𝑙𝑖𝑓𝑒 𝑒𝑎𝑠𝑖𝑒𝑟 𝑓𝑜𝑟 𝑜𝑡ℎ𝑒𝑟𝑠. 𝐼’𝑚 𝑎𝑙𝑤𝑎𝑦𝑠 𝑜𝑝𝑒𝑛 𝑡𝑜 𝑛𝑒𝑤 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑎𝑛𝑑 𝑜𝑝𝑝𝑜𝑟𝑡𝑢𝑛𝑖𝑡𝑖𝑒𝑠, 𝑤ℎ𝑒𝑡ℎ𝑒𝑟 𝑖𝑡’𝑠 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑖𝑛𝑔 𝑜𝑛 𝑎 𝑐𝑜𝑜𝑙 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑜𝑟 𝑑𝑖𝑣𝑖𝑛𝑔 𝑑𝑒𝑒𝑝 𝑖𝑛𝑡𝑜 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑛𝑒𝑤. 𝐿𝑒𝑡’𝑠 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑎𝑛𝑑 𝑐𝑟𝑒𝑎𝑡𝑒 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑎𝑤𝑒𝑠𝑜𝑚𝑒 𝑡𝑜𝑔𝑒𝑡ℎ𝑒𝑟!</h3>
+<h2 align="left">Hey there! I'm a friendly and passionate Java developer based in Vietnam, and at 18 years old, I'm excited to be diving into the world of coding and technology. I love solving problems through clean, efficient code, and I’m always eager to learn new things—whether it's picking up a new framework or exploring the latest trends in software development. I mainly work with Java, but I’ve also had some experience with Spring Boot, Hibernate, and backend development. When I’m not coding, you can usually find me reading tech blogs, contributing to open-source projects, or experimenting with small side projects. I believe in writing code that not only works but also helps make life easier for others. I’m always open to new challenges and opportunities, whether it’s collaborating on a cool project or diving deep into something new. Let’s connect and create something awesome together!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenminhhung17&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenminhhung17" /> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/382Ka4qD58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/382Ka4qD58" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
