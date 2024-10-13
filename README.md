@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX8t1j0OU3b9hBz4b/giphy.gif" height="200" alt="Funny Coding GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k4cnJ1bG1ycGx4N3R4dGRnZXRudndpNndpMmJ0ZzE0OHJ5cmRnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.webp" height="200" alt="Funny Coding GIF" />
 </div>
 
 ---
