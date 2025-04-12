@@ -1,5 +1,5 @@
 # 💫 About Me
-╭────┈ <br>│ ✎┊ About Me<br>│╭────────────╯<br>││• Name: Hung<br>││• Nickname: Leaf<br>││• Info: 🖥️ Software Development Student<br>││• Info: ☕ Java & C# .Unity Developer <br>│╰─────────── ·
+╭────┈ <br>│ ✎┊ About Me<br>│╭────────────╯<br>││• Name: Hung<br>││• Nickname: Leaf<br>││• Info: 🖥️ Software Development Student<br>││• Info: ☕ Java  <br>│╰─────────── ·
 
 ---
 
