@@ -1,7 +1,8 @@
-<h1 align="center">✨ Hey there, I'm Leaf ✨</h1>
+<h1 align="center">Hi, I'm Leaf</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+leaf;Full-Stack+Learner+%F0%9F%92%BB;Coffee+Powered+Developer+☕;Creative+Thinker+%F0%9F%8C%B1;Always+Building+Cool+Stuff+🚀" alt="Typing SVG" />
+  I'm a full-stack learner who enjoys building projects and exploring new technologies.  
+  Always curious and improving every day.  
 </p>
 
 ---
