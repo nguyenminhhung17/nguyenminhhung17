@@ -1,7 +1,7 @@
-<h1 align="center">✨ Hey there, I'm Hung (Leaf) ✨</h1>
+<h1 align="center">✨ Hey there, I'm Leaf ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Software+Development+Student;Java+Coffee+Lover+☕;Always+Learning+New+Tech;Creative+Coder+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+leaf;Full-Stack+Learner+%F0%9F%92%BB;Coffee+Powered+Developer+☕;Creative+Thinker+%F0%9F%8C%B1;Always+Building+Cool+Stuff+🚀" alt="Typing SVG" />
 </p>
 
 ---
