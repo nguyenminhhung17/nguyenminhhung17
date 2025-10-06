@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Leaf</h1>
 
 <p align="center">
-  Full-stack developer with a passion for building scalable applications and exploring modern technologies.  
-  Driven by curiosity and continuous growth.  
+  <marquee behavior="alternate" direction="left" scrollamount="4">
+    Full-stack developer with a passion for building scalable applications and exploring modern technologies.  
+    Driven by curiosity and continuous growth.  
+  </marquee>
 </p>
 
 ---
