@@ -67,9 +67,6 @@
 </p>
 
 ---
-
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=leaf17&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=leaf17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
