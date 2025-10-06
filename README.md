@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Leaf</h1>
 
 <p align="center">
-  I'm a full-stack learner who enjoys building projects and exploring new technologies.  
-  Always curious and improving every day.  
+  Full-stack developer with a passion for building scalable applications and exploring modern technologies.  
+  Driven by curiosity and continuous growth.  
 </p>
 
 ---
-
 ## 💫 About Me
-- 🖥️ Software Development Student  
-- ☕ Java Enjoyer  
-- 🌱 Always curious about new tech & creativity  
-
+- 🖥️ Full-stack development  
+- ☕ Strong focus on Java & backend systems  
+- 🌱 Constantly exploring new tools and creative solutions  
 ---
 
 ## 💻 Tech Stack
