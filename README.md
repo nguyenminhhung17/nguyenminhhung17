@@ -18,10 +18,10 @@ Status       Always learning
 01 — Security
 
 <p align="left">
-<img src="https://img.shields.io/badge/Web%20Security-111111?style=flat-square&logo=owasp&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Application%20Security-111111?style=flat-square&logo=securityscorecard&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Networking-111111?style=flat-square&logo=cisco&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Web%20Security-111111?style=flat-square&logo=owasp&logoColor=00FF9C" alt="Web Security" />
+<img src="https://img.shields.io/badge/Application%20Security-111111?style=flat-square&logo=securityscorecard&logoColor=00FF9C" alt="Application Security" />
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00FF9C" alt="Linux" />
+<img src="https://img.shields.io/badge/Networking-111111?style=flat-square&logo=cisco&logoColor=00FF9C" alt="Networking" />
 </p>
 
 OWASP Top 10
@@ -34,57 +34,57 @@ CTF and security labs
 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cs,js,php,python,c,cpp,go" />
+<img src="https://skillicons.dev/icons?i=java,cs,js,php,python,c,cpp,go" alt="Programming Languages" />
 </p>
 
 Scripting
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=bash,powershell" />
+<img src="https://skillicons.dev/icons?i=bash,powershell" alt="Scripting Languages" />
 </p>
 
 Backend & Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,dotnet,react,angular,vue,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,react,angular,vue,bootstrap,tailwind" alt="Backend and Frontend Frameworks" />
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/ASP.NET%20MVC-111111?style=flat-square&logo=dotnet&logoColor=512BD4" />
-<img src="https://img.shields.io/badge/Hibernate-111111?style=flat-square&logo=hibernate&logoColor=59666C" />
-<img src="https://img.shields.io/badge/Pawn-111111?style=flat-square&logoColor=DB6F3D" />
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-111111?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET MVC" />
+<img src="https://img.shields.io/badge/Hibernate-111111?style=flat-square&logo=hibernate&logoColor=59666C" alt="Hibernate" />
+<img src="https://img.shields.io/badge/Pawn-111111?style=flat-square&logoColor=DB6F3D" alt="Pawn" />
 </p>
 
 Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-<img src="https://img.shields.io/badge/SQL%20Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
 </p>
 
 Tools & Infrastructure
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,maven,gradle" />
-<img src="https://img.shields.io/badge/XAMPP-111111?style=flat-square&logo=xampp&logoColor=F37623" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,maven,gradle" alt="Development Tools" />
+<img src="https://img.shields.io/badge/XAMPP-111111?style=flat-square&logo=xampp&logoColor=F37623" alt="XAMPP" />
 </p>
 
 Security Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/Burp%20Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633" />
-<img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7" />
-<img src="https://img.shields.io/badge/Nmap-111111?style=flat-square&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Kali%20Linux-111111?style=flat-square&logo=kalilinux&logoColor=557C94" />
+<img src="https://img.shields.io/badge/Burp%20Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-111111?style=flat-square&logoColor=00FF9C" alt="Nmap" />
+<img src="https://img.shields.io/badge/Kali%20Linux-111111?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
 </p>
 
 Creative Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/Canva-111111?style=flat-square&logo=canva&logoColor=00C4CC" />
-<img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-111111?style=flat-square&logo=adobepremierepro&logoColor=9999FF" />
-<img src="https://img.shields.io/badge/After%20Effects-111111?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/Canva-111111?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva" />
+<img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Premiere%20Pro-111111?style=flat-square&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
+<img src="https://img.shields.io/badge/After%20Effects-111111?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects" />
 </p>
 
 03 — Current Focus
@@ -104,5 +104,5 @@ Creative Tools
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=leaf17&style=flat-square&color=00FF9C&label=VISITORS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=leaf17&label=PROFILE%20VIEWS&color=00FF9C&style=flat-square" alt="Profile Views" />
 </p>
