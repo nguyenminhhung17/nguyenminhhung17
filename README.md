@@ -1,40 +1,9 @@
 Leaf
-
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF9C&vCenter=true&width=500&lines=Cybersecurity+%2F+Software+Development;Web+Security+%2F+Backend+Engineering;Learning+by+Building." alt="Introduction" />
-</p>
-
-Full-stack developer interested in cybersecurity, web application security, and backend engineering.
-
-Currently exploring application vulnerabilities, secure coding practices, Linux, and network fundamentals.
-
-Interests Web Security · AppSec · Backend Systems
-Languages Java · C# · JavaScript · PHP
-Environment Linux · Git · Docker
-Status Always learning
-
-01 — Security
-
-<p>
-<img src="https://img.shields.io/badge/Web%20Security-111111?style=flat-square&logo=owasp&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Application%20Security-111111?style=flat-square&logo=securityscorecard&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Networking-111111?style=flat-square&logo=cisco&logoColor=00FF9C" />
-</p>
-
-OWASP Top 10
-Web vulnerability analysis
-Authentication and access control
-Secure API development
-Network traffic analysis
-CTF and security labs
-
-02 — Tech Stack
-
 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cs,js,php,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,php,html,css" />
+<img src="https://img.shields.io/badge/Pawn-111111?style=flat-square&logoColor=00FF9C" />
 </p>
 
 Backend & Frameworks
@@ -47,6 +16,8 @@ Database & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,linux,bash" />
+<img src="https://img.shields.io/badge/XAMPP-111111?style=flat-square&logo=xampp&logoColor=FB7A24" />
+<img src="https://img.shields.io/badge/Apache-111111?style=flat-square&logo=apache&logoColor=D22128" />
 <img src="https://img.shields.io/badge/SQL%20Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
 </p>
 
@@ -56,17 +27,10 @@ Security Tools
 <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633" />
 <img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7" />
 <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/OWASP-111111?style=flat-square&logo=owasp&logoColor=00FF9C" />
 </p>
 
-03 — Current Focus
-
-[+] Web application security
-[+] Secure backend development
-[+] Linux & networking fundamentals
-[+] Vulnerability research in controlled labs
-[+] CTF challenges and technical write-ups
-
-04 — Contact
+Contact
 
 <p align="left">
 <a href="https://discord.gg/VeAqPRkfF8"><img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=00FF9C" alt="Discord" /></a>
