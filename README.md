@@ -97,11 +97,9 @@ Creative Tools
 04 — Contact
 
 <p align="left">
-<a href="https://discord.gg/VeAqPRkfF8">
-<img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=00FF9C" alt="Discord" />
-</a>
+<img src="https://img.shields.io/badge/Discord-leaf17._-111111?style=flat-square&logo=discord&logoColor=00FF9C" alt="Discord: leaf17._" />
 <a href="https://www.instagram.com/leaf17._/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=00FF9C" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-leaf17._-111111?style=flat-square&logo=instagram&logoColor=00FF9C" alt="Instagram" />
 </a>
 </p>
 
