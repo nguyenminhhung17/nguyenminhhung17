@@ -66,14 +66,7 @@ Security Tools
 [+] Vulnerability research in controlled labs
 [+] CTF challenges and technical write-ups
 
-04 — GitHub Activity
-
-<p align="left">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=leaf17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaf17&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
-05 — Contact
+04 — Contact
 
 <p align="left">
 <a href="https://discord.gg/VeAqPRkfF8"><img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=00FF9C" alt="Discord" /></a>
