@@ -104,5 +104,8 @@ Creative Tools
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=leaf17&label=PROFILE%20VIEWS&color=00FF9C&style=flat-square" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=leaf17&label=PROFILE%20VIEWS&color=00FF9C&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
